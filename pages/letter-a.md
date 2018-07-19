@@ -1,2 +1,2 @@
-![ape](../images/image-name.jpg)
+![ape](../images/a.png)
 is for apes.
