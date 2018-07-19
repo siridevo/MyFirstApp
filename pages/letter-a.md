@@ -1,2 +1,2 @@
-![alt-text](../images/image-name.jpg)
+![ape](../images/image-name.jpg)
 is for apes.
