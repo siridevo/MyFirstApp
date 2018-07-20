@@ -1,1 +1,3 @@
-M is for marmoset.
+M is for marmot.
+
+![marmot](../images/marmot.jpg)
