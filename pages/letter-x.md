@@ -1,2 +1,2 @@
 X is for X-man! 
-![image](x-man.jpeg)
+![image](../images/x-man.jpeg)
