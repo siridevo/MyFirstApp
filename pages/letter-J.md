@@ -1,3 +1,5 @@
 J is for Joy.
 
-![Joy](../images/x-man.jpg)
+![Joy](../images/J.jpg)
+
+[next page ->](pages/letter-J.md)
