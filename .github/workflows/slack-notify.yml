@@ -11,8 +11,7 @@ jobs:
       uses: rtCamp/action-slack-notify@v2
       env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_URL }}
-        
-        
+
 --- 
 SLACK_CHANNEL: oss-devops
 SLACK_MESSAGE: "Post Content :rocket:"
