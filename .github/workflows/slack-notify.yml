@@ -11,3 +11,13 @@ jobs:
       uses: rtCamp/action-slack-notify@v2
       env:
         SLACK_WEBHOOK: ${{ secrets.SLACK_URL }}
+        
+--- 
+SLACK_CHANNEL: general
+SLACK_MESSAGE: "Post Content :rocket:"
+SLACK_TITLE: "Post Title"
+SLACK_USERNAME: rtCamp
+SLACK_WEBHOOK: "${{ secrets.SLACK_URL }}"
+env: ~
+name: "Slack Notification"
+uses: rtCamp/action-slack-notify@v2
