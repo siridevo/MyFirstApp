@@ -13,7 +13,7 @@ jobs:
         SLACK_WEBHOOK: ${{ secrets.SLACK_URL }}
         
 --- 
-SLACK_CHANNEL: general
+SLACK_CHANNEL: oss-devops
 SLACK_MESSAGE: "Post Content :rocket:"
 SLACK_TITLE: "Post Title"
 SLACK_USERNAME: rtCamp
