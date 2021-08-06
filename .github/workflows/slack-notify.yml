@@ -17,5 +17,5 @@ jobs:
           slack-channel: ${{ secrets.SLACK_CHANNEL_ID }}
           slack-channel-id: ${{ secrets.SLACK_CHANNEL_ID }}
           slack-text: Hello! Event "${{ github.event_name }}" in "${{ github.repository }}" 🤓
-      - name: Result from "Send Message"
+      - name: Result from "Send  after result send Message"
         run: echo "The result was ${{ steps.notify.outputs.slack-result }}"
