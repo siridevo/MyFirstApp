@@ -1,9 +1,8 @@
 
 name: slack-notification
 
-on: 
-  pull_request:
-   branches: [ master ]
+on: [ push, pull_request ]
+
 jobs:
   slack-notifications:
     runs-on: ubuntu-20.04
